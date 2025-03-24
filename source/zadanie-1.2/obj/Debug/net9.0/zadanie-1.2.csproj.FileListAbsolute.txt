@@ -1,0 +1,14 @@
+/Users/bnowakowski/Projects/wzorce_projektowe_1/source/zadanie-1.2/bin/Debug/net9.0/zadanie-1.2
+/Users/bnowakowski/Projects/wzorce_projektowe_1/source/zadanie-1.2/bin/Debug/net9.0/zadanie-1.2.deps.json
+/Users/bnowakowski/Projects/wzorce_projektowe_1/source/zadanie-1.2/bin/Debug/net9.0/zadanie-1.2.runtimeconfig.json
+/Users/bnowakowski/Projects/wzorce_projektowe_1/source/zadanie-1.2/bin/Debug/net9.0/zadanie-1.2.dll
+/Users/bnowakowski/Projects/wzorce_projektowe_1/source/zadanie-1.2/bin/Debug/net9.0/zadanie-1.2.pdb
+/Users/bnowakowski/Projects/wzorce_projektowe_1/source/zadanie-1.2/obj/Debug/net9.0/zadanie-1.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bnowakowski/Projects/wzorce_projektowe_1/source/zadanie-1.2/obj/Debug/net9.0/zadanie-1.2.AssemblyInfoInputs.cache
+/Users/bnowakowski/Projects/wzorce_projektowe_1/source/zadanie-1.2/obj/Debug/net9.0/zadanie-1.2.AssemblyInfo.cs
+/Users/bnowakowski/Projects/wzorce_projektowe_1/source/zadanie-1.2/obj/Debug/net9.0/zadanie-1.2.csproj.CoreCompileInputs.cache
+/Users/bnowakowski/Projects/wzorce_projektowe_1/source/zadanie-1.2/obj/Debug/net9.0/zadanie-1.2.dll
+/Users/bnowakowski/Projects/wzorce_projektowe_1/source/zadanie-1.2/obj/Debug/net9.0/refint/zadanie-1.2.dll
+/Users/bnowakowski/Projects/wzorce_projektowe_1/source/zadanie-1.2/obj/Debug/net9.0/zadanie-1.2.pdb
+/Users/bnowakowski/Projects/wzorce_projektowe_1/source/zadanie-1.2/obj/Debug/net9.0/zadanie-1.2.genruntimeconfig.cache
+/Users/bnowakowski/Projects/wzorce_projektowe_1/source/zadanie-1.2/obj/Debug/net9.0/ref/zadanie-1.2.dll
