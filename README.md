@@ -33,16 +33,16 @@
               ▲
               │ 1
               │
-       +------------+
-       |  Kierowca  |
-       +------------+
-       | - id: int  |
-       | - imie: String
-       | - nazwisko: String
-       | - numer_licencji: String
-       | - przydzielone_podróże:
-       |   List<Podróż>
-       +------------+
+       +--------------------------+
+       |  Kierowca                |
+       +--------------------------+
+       | - id: int                |
+       | - imie: String           |
+       | - nazwisko: String       |
+       | - numer_licencji: String |
+       | - przydzielone_podróże:  |
+       |   List<Podróż>           |
+       +--------------------------+
            0..* ▲
                 │
                 │ przypisuje
